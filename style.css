@@ -1,0 +1,65 @@
+   *{
+    margin: 0;
+    padding: 0;
+}
+nav {
+    
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(63, 113, 143);
+    border-bottom: 2px black solid;
+    margin-bottom: 15px;
+}
+nav img {
+    width: 50px;
+}
+nav h1 {
+    margin-right: 40%;
+}
+.main p {
+    color: rgb(180, 177, 177);
+    margin-top: 10px;
+}
+.main {
+    margin-left: 50px;
+}
+.main img {
+    margin-top: 4em;
+    width: 300px;
+}
+.judul {
+    margin-left: 10px;
+}
+.isi {
+    margin-left: 50px;
+}
+.alt {
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.info img {
+    border-radius: 50%;
+    width: 50px;
+}
+.info {
+    display: flex;
+    align-items: center;
+    margin-left: 50px;
+    margin-top: 15px;
+}
+.info h4 {
+    margin-left: 10px;
+    
+}
+.info span {
+    color: crimson;
+}
+
+button {
+    padding: 7px;
+    margin-bottom: 5px;
+}
+a {
+    text-decoration: none;
+}
